@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/e-college/bin/Debug/net6.0
+/e-college/obj
+/Logic/bin/Debug/net6.0
+/Logic/obj
+/Core/bin/Debug/net6.0
+/Core/obj
+/e-college/Properties/launchSettings.json
